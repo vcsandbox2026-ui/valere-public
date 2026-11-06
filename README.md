@@ -1,4 +1,4 @@
-# valere-public
+# vc-public
 
 Öffentliche Seiten für GitHub Pages. **Alles hier ist für alle im Internet sichtbar.**
 
